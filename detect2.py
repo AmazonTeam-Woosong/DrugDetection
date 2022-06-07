@@ -195,7 +195,7 @@ def run(weights=ROOT / 'drugs237.pt',  # model.pt path(s)
 
 
                 cv2.imshow("Results", resized)
-                cv2.waitKey()  # 1 millisecond
+                cv2.waitKey(1)  # 1 millisecond
 
             # Save results (image with detections)
             if save_img:
