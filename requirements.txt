@@ -1,5 +1,8 @@
 # pip install -r requirements.txt
 
+# Interface -----------------------------------
+customtkinter>=4.3.0
+
 # Base ----------------------------------------
 matplotlib>=3.2.2
 numpy>=1.18.5
