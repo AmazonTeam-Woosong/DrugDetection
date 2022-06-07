@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/105408877/172390195-f1e83ed3-a905-4bf9-8205-abd5730f077a.png" width="600" height="375"> </p>
 
-This repository contains a deep learning model that can detect drugs. Currently the available drugs are heroin, cocaine, marijuana and shrooms.
+This repository contains a deep learning model that can detect drugs with the help of yolov5. Currently the available drugs are heroin, cocaine, marijuana and shrooms.
 
 ![all4](https://user-images.githubusercontent.com/105408877/172393929-b852ac2d-e8ab-4c13-9a7a-8f08facae1b2.jpg)
 
