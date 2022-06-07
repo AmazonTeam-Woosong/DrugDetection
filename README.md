@@ -105,7 +105,7 @@ Then after choosing your file, click upload. The green progress bar will start f
 
 ![Picture6](https://user-images.githubusercontent.com/105408877/172399319-9b71700d-3b60-4da7-83bc-92bc45978043.png)
 
-##Supported Formats
+## Supported Formats
 This is the list of file formats supported for detecting the drugs:
 
 Pictures:
